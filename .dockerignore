@@ -1,0 +1,6 @@
+.git
+.gitignore
+.vs
+node_modules
+host.sh
+build_docker.sh
